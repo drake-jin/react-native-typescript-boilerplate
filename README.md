@@ -2,6 +2,11 @@
 
 react-natvie... 설정.. 너모너모 힘둘다..
 
+
+# based on this post
+
+https://facebook.github.io/react-native/blog/2018/05/07/using-typescript-with-react-native
+
 # 버전관리
 
 - **Version 0.0.1**: react-native(react 16.6.1 + react-native 0.57.5) + typescript
